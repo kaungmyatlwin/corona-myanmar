@@ -9,3 +9,5 @@ Inspired by: [Luke Smith's video](https://www.youtube.com/watch?v=cQ03v4d3QEo)
 ![preview][preview]
 
 [preview]: https://i.imgur.com/dEwV5VU.png "Corona Myanmar"
+
+Update: Added total recovered.
